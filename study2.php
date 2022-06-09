@@ -1,4 +1,5 @@
 <?php
+echo 3;
 ?>
 <!DOCTYPE html>
 <html lang="ja">
