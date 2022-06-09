@@ -1,5 +1,4 @@
 <?php
-$result = 2 + 4 - 5;
 ?>
 <!DOCTYPE html>
 <html lang="ja">
