@@ -1,5 +1,5 @@
 <?php
-echo 3;
+$result = 3;
 ?>
 <!DOCTYPE html>
 <html lang="ja">
