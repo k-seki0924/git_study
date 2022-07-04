@@ -1,9 +1,9 @@
 <?php
 $result = 8 / 2;
-$result = 8 / 2;
-$result = 8 / 2;
-$result = 8 / 2;
-$result = 8 / 2;
+$result .= 8 / 2;
+$result .= 8 / 2;
+$result .= 8 / 2;
+$result .= 8 / 2;
 ?>
 <!DOCTYPE html>
 <html lang="ja">
