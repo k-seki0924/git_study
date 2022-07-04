@@ -1,5 +1,8 @@
 <?php
 $result = 2 * 4;
+$result = 2 * 4;
+$result = 2 * 4;
+$result = 2 * 4;
 ?>
 <!DOCTYPE html>
 <html lang="ja">
